@@ -1,0 +1,9 @@
+Cross docking is a logistics procedure where products from a supplier 
+or manufacturing plant are distributed directly to a customer or retail chain 
+with marginal to no handling or storage time.
+
+Double-Deep is Last In First Out (LIFO).
+Medium to low storage system.
+Can increase pallet storage by as much as 10-15% depending on racking layout.
+
+
